@@ -1,0 +1,10 @@
+G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\bin\Debug\Faculta01.exe.config
+G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\bin\Debug\Faculta01.exe
+G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\bin\Debug\Faculta01.pdb
+G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\obj\Debug\Faculta01.csproj.AssemblyReference.cache
+G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\obj\Debug\Faculta01.Form1.resources
+G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\obj\Debug\Faculta01.Properties.Resources.resources
+G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\obj\Debug\Faculta01.csproj.GenerateResource.cache
+G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\obj\Debug\Faculta01.csproj.CoreCompileInputs.cache
+G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\obj\Debug\Faculta01.exe
+G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\obj\Debug\Faculta01.pdb

@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|g:\\cai\\ejerciosfacultad01\\faculta01\\faculta01\\entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|g:\\cai\\ejerciosfacultad01\\faculta01\\faculta01\\entidades\\facultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\entidades\\facultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|g:\\cai\\ejerciosfacultad01\\faculta01\\faculta01\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|g:\\cai\\ejerciosfacultad01\\faculta01\\faculta01\\entidades\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\entidades\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|g:\\cai\\ejerciosfacultad01\\faculta01\\faculta01\\entidades\\directivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\entidades\\directivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|g:\\cai\\ejerciosfacultad01\\faculta01\\faculta01\\entidades\\bedel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\entidades\\bedel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|g:\\cai\\ejerciosfacultad01\\faculta01\\faculta01\\entidades\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\entidades\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|g:\\cai\\ejerciosfacultad01\\faculta01\\faculta01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|g:\\cai\\ejerciosfacultad01\\faculta01\\faculta01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +54,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bedel.cs",
+              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Bedel.cs",
+              "RelativeDocumentMoniker": "Faculta01\\Entidades\\Bedel.cs",
+              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Bedel.cs",
+              "RelativeToolTip": "Faculta01\\Entidades\\Bedel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:10:09.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Docente.cs",
+              "RelativeDocumentMoniker": "Faculta01\\Entidades\\Docente.cs",
+              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Docente.cs",
+              "RelativeToolTip": "Faculta01\\Entidades\\Docente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:09:59.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Directivo.cs",
+              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Directivo.cs",
+              "RelativeDocumentMoniker": "Faculta01\\Entidades\\Directivo.cs",
+              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Directivo.cs",
+              "RelativeToolTip": "Faculta01\\Entidades\\Directivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:09:33.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Empleado.cs",
+              "RelativeDocumentMoniker": "Faculta01\\Entidades\\Empleado.cs",
+              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Empleado.cs",
+              "RelativeToolTip": "Faculta01\\Entidades\\Empleado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T21:50:05.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Facultad.cs",
+              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Facultad.cs",
+              "RelativeDocumentMoniker": "Faculta01\\Entidades\\Facultad.cs",
+              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Facultad.cs",
+              "RelativeToolTip": "Faculta01\\Entidades\\Facultad.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:08:46.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Persona.cs",
+              "RelativeDocumentMoniker": "Faculta01\\Entidades\\Persona.cs",
+              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Persona.cs",
+              "RelativeToolTip": "Faculta01\\Entidades\\Persona.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBQAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T21:10:10.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Alumno.cs",
+              "RelativeDocumentMoniker": "Faculta01\\Entidades\\Alumno.cs",
+              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Alumno.cs",
+              "RelativeToolTip": "Faculta01\\Entidades\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:09:20.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Form1.cs",
+              "RelativeDocumentMoniker": "Faculta01\\Form1.cs",
+              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Form1.cs",
+              "RelativeToolTip": "Faculta01\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T21:04:36.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Form1.cs",
               "RelativeDocumentMoniker": "Faculta01\\Form1.cs",

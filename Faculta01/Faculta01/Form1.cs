@@ -16,5 +16,12 @@ namespace Faculta01
         {
             InitializeComponent();
         }
+
+        private void btnSaludar_Click(object sender, EventArgs e)
+        {
+            string nombre = textNombre.Text;
+
+            MessageBox.Show( nombre);
+        }
     }
 }
