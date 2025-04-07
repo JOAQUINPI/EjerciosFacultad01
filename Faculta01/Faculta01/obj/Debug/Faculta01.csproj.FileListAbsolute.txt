@@ -8,3 +8,6 @@ G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\obj\Debug\Faculta01.csproj.Generat
 G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\obj\Debug\Faculta01.csproj.CoreCompileInputs.cache
 G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\obj\Debug\Faculta01.exe
 G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\obj\Debug\Faculta01.pdb
+G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\obj\Debug\Faculta01.FormInicio.resources
+G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\obj\Debug\Faculta01.FormAlumnos.resources
+G:\CAI\EjerciosFacultad01\Faculta01\Faculta01\obj\Debug\Faculta01.FormMenu.resources
