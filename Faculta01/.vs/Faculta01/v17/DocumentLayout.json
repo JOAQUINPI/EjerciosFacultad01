@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|g:\\cai\\ejerciosfacultad01\\faculta01\\faculta01\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|g:\\cai\\ejerciosfacultad01\\faculta01\\faculta01\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\forminicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\forminicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\entidades\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\entidades\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\formpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\formpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\formalumnos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\entidades\\directivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\entidades\\directivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\entidades\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|solutionrelative:faculta01\\entidades\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADAEBA78-138F-4BA6-9A8D-6802C85679A6}|Faculta01\\Faculta01.csproj|G:\\CAI\\EjerciosFacultad01\\Faculta01\\faculta01\\entidades\\bedel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,28 +82,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormMenu.cs",
-              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormMenu.cs",
-              "RelativeDocumentMoniker": "Faculta01\\FormMenu.cs",
-              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormMenu.cs",
-              "RelativeToolTip": "Faculta01\\FormMenu.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FormInicio.cs",
+              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormInicio.cs",
+              "RelativeDocumentMoniker": "Faculta01\\FormInicio.cs",
+              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormInicio.cs",
+              "RelativeToolTip": "Faculta01\\FormInicio.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAIAwwC0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T23:02:32.778Z",
+              "WhenOpened": "2025-04-06T21:04:36.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormAlumnos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormAlumnos.cs",
-              "RelativeDocumentMoniker": "Faculta01\\FormAlumnos.cs",
-              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormAlumnos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Faculta01\\FormAlumnos.cs [Dise\u00F1o]",
+              "DocumentIndex": 4,
+              "Title": "FormInicio.Designer.cs",
+              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormInicio.Designer.cs",
+              "RelativeDocumentMoniker": "Faculta01\\FormInicio.Designer.cs",
+              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormInicio.Designer.cs",
+              "RelativeToolTip": "Faculta01\\FormInicio.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T22:43:54.139Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-04-09T02:41:27.925Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -115,45 +120,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormInicio.cs",
-              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormInicio.cs",
-              "RelativeDocumentMoniker": "Faculta01\\FormInicio.cs",
-              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormInicio.cs",
-              "RelativeToolTip": "Faculta01\\FormInicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FormAlumnos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormAlumnos.cs",
+              "RelativeDocumentMoniker": "Faculta01\\FormAlumnos.cs",
+              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormAlumnos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Faculta01\\FormAlumnos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T21:04:36.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormMenu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormMenu.cs",
-              "RelativeDocumentMoniker": "Faculta01\\FormMenu.cs",
-              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormMenu.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Faculta01\\FormMenu.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T22:50:26.529Z",
+              "WhenOpened": "2025-04-06T22:43:54.139Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "FormAlumnos.cs",
               "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormAlumnos.cs",
               "RelativeDocumentMoniker": "Faculta01\\FormAlumnos.cs",
               "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormAlumnos.cs",
               "RelativeToolTip": "Faculta01\\FormAlumnos.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T22:55:29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Alumno.cs",
+              "RelativeDocumentMoniker": "Faculta01\\Entidades\\Alumno.cs",
+              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Alumno.cs",
+              "RelativeToolTip": "Faculta01\\Entidades\\Alumno.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAWwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:09:20.2Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "FormMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormMenu.cs",
+              "RelativeDocumentMoniker": "Faculta01\\FormMenu.cs",
+              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Faculta01\\FormMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:50:26.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "FormPersonal.cs [Dise\u00F1o]",
               "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormPersonal.cs",
               "RelativeDocumentMoniker": "Faculta01\\FormPersonal.cs",
@@ -164,7 +179,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormMenu.cs",
+              "RelativeDocumentMoniker": "Faculta01\\FormMenu.cs",
+              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormMenu.cs",
+              "RelativeToolTip": "Faculta01\\FormMenu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:02:32.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "FormAlumnos.Designer.cs",
               "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\FormAlumnos.Designer.cs",
               "RelativeDocumentMoniker": "Faculta01\\FormAlumnos.Designer.cs",
@@ -177,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Directivo.cs",
               "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Directivo.cs",
               "RelativeDocumentMoniker": "Faculta01\\Entidades\\Directivo.cs",
@@ -189,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Facultad.cs",
               "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Facultad.cs",
               "RelativeDocumentMoniker": "Faculta01\\Entidades\\Facultad.cs",
@@ -201,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Empleado.cs",
               "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Empleado.cs",
               "RelativeDocumentMoniker": "Faculta01\\Entidades\\Empleado.cs",
@@ -213,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Persona.cs",
               "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Persona.cs",
               "RelativeDocumentMoniker": "Faculta01\\Entidades\\Persona.cs",
@@ -225,19 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Alumno.cs",
-              "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Alumno.cs",
-              "RelativeDocumentMoniker": "Faculta01\\Entidades\\Alumno.cs",
-              "ToolTip": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Alumno.cs",
-              "RelativeToolTip": "Faculta01\\Entidades\\Alumno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T22:09:20.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Bedel.cs",
               "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Bedel.cs",
               "RelativeDocumentMoniker": "Faculta01\\Entidades\\Bedel.cs",
@@ -249,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Docente.cs",
               "DocumentMoniker": "G:\\CAI\\EjerciosFacultad01\\Faculta01\\Faculta01\\Entidades\\Docente.cs",
               "RelativeDocumentMoniker": "Faculta01\\Entidades\\Docente.cs",

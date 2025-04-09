@@ -25,24 +25,12 @@ namespace Faculta01
 
         private void btnListar_Click(object sender, EventArgs e)
         {
-            PersistenciaUtils persistenciaUtils = new PersistenciaUtils();
-            List<String> listado = persistenciaUtils.LeerRegistro("alumnos.csv");
-
-            foreach (String registro in listado)
-            {
-                Alumno alumno = new Alumno(registro);
-                lstAlumnos.Items.Add(alumno);
-            }
+            
         }
 
         private void btnModificar_Click(object sender, EventArgs e)
         {
-            var itemSeleccionado = lstAlumnos.SelectedItems;
-            Alumno alumno = (Alumno)itemSeleccionado[0];
-
-            txtNombre.Text = alumno.Nombre;
-            txtApellido.Text = alumno.Apellido;
-            dtpFechaNacimiento.Value = alumno.FechaNac;
+           
         }
     }
 }

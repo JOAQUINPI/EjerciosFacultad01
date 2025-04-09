@@ -19,36 +19,80 @@ namespace Faculta01
         {
             InitializeComponent();
         }
-        public bool EsPrimerLogin { get; set; }
-        public DateTime FechaUltimoCambioPassword { get; set; }
+       
         private void btnSaludar_Click(object sender, EventArgs e)
         {
 
             // 1) Validaciones
 
-            // 1.1) Validaciones de integridad de datos
+            // 
 
-            string usuario = textNombre.Text;
+            string usuarios = textNombre.Text;
             string contraseña = textContraseña.Text;
 
             string errores = "";
 
-            errores += ValidarUsuario(usuario);
+            errores += ValidarUsuario(usuarios);
             errores += ValidarContraseña(contraseña);
-            errores += ValidarLogin(usuario);
 
 
             if (!string.IsNullOrEmpty(errores))
             {
                 MessageBox.Show(errores, "Errores");
+                return; // 🚫 No continúa si hay errores
             }
+
+            // ✅ Solo pasa acá si está todo bien
+            this.Hide();
+            FormMenu formMenu = new FormMenu();
+            formMenu.ShowDialog();
+
+
+            string archivo = "usuarios.csv";
+            string usuarioInput = "admin1";
+            string passwordInput = "Abc123";
+
+            string[] lineas = File.ReadAllLines(archivo);
+
+            foreach (string linea in lineas)
             {
-                this.Hide();
-                FormMenu formMenu = new FormMenu();
-                formMenu.ShowDialog();
+                string[] partes = linea.Split('\t');
+                string usuario = partes[0];
+                string password = partes[1];
+                DateTime fechaLogin = DateTime.Parse(partes[2]);
+                DateTime fechaExpiracion = DateTime.Parse(partes[3]);
 
+                if (usuario == usuarioInput && password == passwordInput)
+                {
+                    Console.WriteLine("✅ Login correcto");
+
+                    // 1.4) Verificar si expiró la contraseña
+                    if (DateTime.Now > fechaExpiracion)
+                    {
+                        Console.WriteLine("⚠️ La contraseña ha expirado. Debes cambiarla.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("✅ La contraseña es válida.");
+                    }
+
+                    // 1.3) Cambiar la contraseña
+                    Console.Write("Ingresa nueva contraseña: ");
+                    string nuevaPassword = Console.ReadLine();
+
+                    // Actualizar el archivo
+                    partes[1] = nuevaPassword;
+                    string nuevaLinea = string.Join("\t", partes);
+                    File.WriteAllLines(archivo, new string[] { nuevaLinea });
+
+                    Console.WriteLine("🔐 Contraseña actualizada.");
+                    return;
+                }
             }
 
+            Console.WriteLine("❌ Usuario o contraseña incorrectos");
+        }
+            //  1.1) Validaciones de integridad de datos
             // 1.) Validaciones de negocio
 
             // 1.1) Longitud de usuario (mayor igual a 6)
@@ -63,48 +107,19 @@ namespace Faculta01
 
             // 2) Redirigir
 
-        }
 
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        //  private List<String> obtenerUsuarios()
-        //  {
-        // List<String> listado = persistenciaUtils.LeerRegistro("credenciales.csv");
-
-        //   return listado;
-        //  }
-        private void FormInicio_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textNombre_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-
-
-
+      
         private string ValidarUsuario(string usuario)
         {
             string error;
 
             if (string.IsNullOrEmpty(usuario))
             {
-                error = "El campo  no debe ser vacío." + System.Environment.NewLine;
+                error = "El campo de usuario no debe ser vacío.\n";
             }
             else if (usuario.Length < 6)
             {
-                error = "El isuario debe tener una longitud de 6 caracteres" + System.Environment.NewLine;
+                error = "El usuario debe tener una longitud de al menos 6 caracteres.\n";
             }
             else
             {
@@ -141,51 +156,10 @@ namespace Faculta01
             return error;
         }
 
-        private string ValidarLogin(string usuario)
+        private void FormInicio_Load(object sender, EventArgs e)
         {
-            string usuario = textNombre.Text;
 
-            List<string> usuarios = ObtenerUsuarios(); // tu lista simulada o desde archivo
-
-            foreach (Usuario usuario in usuarios)
-            {
-                if (usuario.Nombre != usuario)
-                {
-                    if (usuario.EsPrimerLogin)
-                    {
-                        MessageBox.Show("Es su primer ingreso. Ingrese nueva contraseña:");
-                    }
-                }
-            }
-
-            TimeSpan tiempo = DateTime.Now - usuario.FechaUltimoCambioPassword;
-            if (tiempo.TotalDays > 90)
-            {
-                MessageBox.Show("Contraseña Expirada");
-
-            }
-            else
-            {
-                return "Login Exitoso";
-            }
         }
-
-                private void ObtenerUsuarios()
-                {
-                    string path = "C:\\Users\\maro_\\OneDrive\\Desktop\\Modelo 1\\Factura.txt";
-
-                    StreamWriter sw = new StreamWriter(path);
-
-                    foreach (usuario u in usuarios)
-                    {
-                        sw.WriteLine(u.ToCSV());
-                    }
-
-                    sw.Close();
-                    MessageBox.Show("Se guardó correctamente el archivo de usuarios en: " + path + ".");
-                }
-
-
     }
 
         
@@ -194,6 +168,6 @@ namespace Faculta01
 
 
 
-    }
+    
 }
 

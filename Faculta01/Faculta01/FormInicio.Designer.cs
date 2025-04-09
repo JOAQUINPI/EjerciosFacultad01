@@ -46,11 +46,10 @@
             // 
             // textNombre
             // 
-            this.textNombre.Location = new System.Drawing.Point(114, 45);
+            this.textNombre.Location = new System.Drawing.Point(114, 38);
             this.textNombre.Name = "textNombre";
             this.textNombre.Size = new System.Drawing.Size(100, 20);
-            this.textNombre.TabIndex = 1;
-            this.textNombre.TextChanged += new System.EventHandler(this.textNombre_TextChanged);
+            this.textNombre.TabIndex = 5;
             // 
             // btnIngresar
             // 
@@ -70,7 +69,6 @@
             this.label2.Size = new System.Drawing.Size(61, 13);
             this.label2.TabIndex = 3;
             this.label2.Text = "Contraseña";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // textContraseña
             // 
@@ -78,7 +76,6 @@
             this.textContraseña.Name = "textContraseña";
             this.textContraseña.Size = new System.Drawing.Size(100, 20);
             this.textContraseña.TabIndex = 4;
-            this.textContraseña.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // FormInicio
             // 
